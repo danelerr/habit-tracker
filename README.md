@@ -2,5 +2,8 @@
 
 Aplicación web para registrar y dar seguimiento a tus hábitos diarios. Permite agregar, editar y marcar hábitos como completados, ayudando a mejorar la productividad y el desarrollo personal.
 
+## URL desplegada
+[https://danelerr.github.io/habit-tracker](https://danelerr.github.io/habit-tracker/)
+
 # Autor
 Daniel Cueto
